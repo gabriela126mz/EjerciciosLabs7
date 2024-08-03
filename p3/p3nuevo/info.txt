@@ -1,0 +1,14 @@
+next.js
+
+framework next
+
+npx create-next-app@latest
+
+cd labs7
+npm i
+npm run dev
+
+http://localhost:3000
+
+Nuestro punto de entrada es app/page.js
+
